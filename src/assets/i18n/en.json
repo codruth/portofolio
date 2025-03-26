@@ -1,0 +1,194 @@
+{
+  "Header.Item1": "About Me",
+  "Header.Item2": "Experience",
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  "Header.cvBtn": "Resume",
+  "Header.cvName": "CV_Jose_Hernandez_Spanish.pdf",
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "I am a Full Stack Developer with extensive experience in building web applications using both frontend and backend technologies.",
+  "Banner.ActionBtn": "Say Hi",
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "I am a <span class='underline'>Full Stack Developer</span> with extensive experience in building web applications using both <span class='underline'>frontend</span> and <span class='underline'>backend</span> technologies.",
+    "Over the years, I have taken on various roles, including <span class='underline'>Systems Analyst</span>, <span class='underline'>Backend Developer</span>, and <span class='underline'>Frontend Developer</span>.",
+    "I am passionate about solving complex problems, optimizing applications, and contributing to innovative projects."
+  ],
+  "Experience.Title": "Experience",
+  "Experience.Jobs": [
+    {
+      "Tab": "GS1",
+      "Title": "Fullstack Engineer",
+      "Date": "June 2021 - Present",
+      "Description": [
+        "Implementing new features in existing applications",
+        "Enhancing and optimizing previously developed functionalities.",
+        "Assisting new colleagues in onboarding and integrating into the team.",
+        "Developing new applications that are now successfully in production.",
+        "This role has provided me with numerous learning opportunities, and I am truly grateful for the experience."
+      ]
+    },
+    {
+      "Tab": "COMTEC NET",
+      "Title": "Fullstack Engineer",
+      "Date": "April 2020 - June 2021",
+      "Description": [
+        "Modernizing and enhancing the GUI of existing web applications.",
+        "Developing and integrating new features into existing web applications."
+      ]
+    },
+    {
+      "Tab": "WHITEIMAGE",
+      "Title": "Junior Web Developer",
+      "Date": "Sept 2017 - Apr 2020",
+      "Description": [
+        "Converted PSD designs into fully functional, responsive HTML structures for newsletters and landing pages.",
+        "This role enhanced my expertise in frontend development and backend integration, allowing me to successfully execute various web projects."
+      ]
+    },
+    {
+      "Tab": "Freelencer",
+      "Title": "Fullstack Developer",
+      "Date": "July 2017 - October 2018",
+      "Description": [
+        "Developed web applications to monitor gas emissions during the leather processing workflow.",
+        "Designed a system to track the amount of gas released at different production stages.",
+        "Ensured better control and compliance with environmental standards.",
+        "Built the frontend using AngularJS 2 for a dynamic and responsive UI.",
+        "Developed the backend in Java, managing business logic and data processing.",
+        "Used SQL queries to perform CRUD operations (Create, Read, Update, Delete) efficiently."
+      ]
+    },
+    {
+      "Tab": "Setrio",
+      "Title": "Internship",
+      "Date": "June 2014 - Sept 2014",
+      "Description": [
+        "Assisted in the implementation of two new modules within an existing CRM application.",
+        "Gained hands-on experience in frontend and backend development.",
+        "Worked with database management to ensure seamless data integration."
+      ]
+    }
+  ],
+  "FeatureProjects.Title": "My Projects",
+  "FeatureProjects.Label": "Highlighted Project",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "GS1 Data Systems",
+      "Description": "These projects enhanced my expertise in developing full-stack web applications, from design to deployment, and strengthened my problem-solving, optimization, and team collaboration skills.",
+      "imgs": [
+        "assets/images/gs1/img1.png",
+        "assets/images/gs1/img2.png",
+        "assets/images/gs1/img3.png",
+        "assets/images/gs1/img4.png",
+        "assets/images/gs1/img4_0.png"
+      ],
+      "Technologies": [
+        "PrimeFaces",
+        "Angular",
+        "Java",
+        "Spring Boot",
+        "JPA",
+        "Hiberante"
+      ]
+    },
+    {
+      "Title": "COMTEC NET",
+      "Description": "Enhanced the GUI of web applications by modernizing interfaces and improving user experience. Developed and integrated new features while optimizing backend performance to ensure scalable and secure applications. Collaborated with team members to design, implement, and deploy solutions efficiently.",
+      "imgs": [
+        "assets/images/comtec/img7.png",
+        "assets/images/comtec/img6.png",
+        "assets/images/comtec/img5.png"
+      ],
+      "Technologies": [
+        "PrimeFaces",
+        "Angular",
+        "Java",
+        "Spring Boot",
+        "JPA",
+        "Hiberante"
+      ]
+    }
+  ],
+  "OtherProjects.Title": "More Projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Hands Game",
+      "Description": "Extended rock-paper-scissors game. A personal project developed in Angular where you play randomly against the machine. It features the use of services, interfaces, and components.",
+      "imgs": [
+        "assets/images/hands-game.png"
+      ],
+      "ghLink": "https://github.com/andresjosehr/hands-game",
+      "demoLink": "https://projects.andresjosehr.com/hands-game",
+      "Technologies": [
+        "Angular",
+        "CSS GRID",
+        "SASS",
+        "Angular animations"
+      ]
+    },
+    {
+      "Title": "Countries Viewer",
+      "Description": "Interface that consumes a countries API where you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
+      "imgs": [
+        "assets/images/countries-viewer.png"
+      ],
+      "ghLink": "https://github.com/andresjosehr/countries-viewer",
+      "demoLink": "https://projects.andresjosehr.com/countries-viewer",
+      "Technologies": [
+        "Angular",
+        "RxJS",
+        "SASS",
+        "API"
+      ]
+    },
+    {
+      "Title": "Four Card Feature Section",
+      "Description": "A single page with a minimalist design listing 4 features in 4 cards. Entry animations are used with Angular animations.",
+      "ghLink": "https://github.com/andresjosehr/four-card-feature-section",
+      "demoLink": "https://projects.andresjosehr.com/four-card-feature-section",
+      "Technologies": [
+        "Angular",
+        "SASS",
+        "CSS GRID"
+      ]
+    },
+    {
+      "Title": "Social Proof Section",
+      "Description": "Personal project of a page designed from a design made in Figma. Angular was used for development along with SASS and CSS GRID.",
+      "ghLink": "https://github.com/andresjosehr/social-proof-section",
+      "demoLink": "https://projects.andresjosehr.com/social-proof-section",
+      "Technologies": [
+        "Angular",
+        "CSS GRID",
+        "GIT"
+      ]
+    },
+    {
+      "Title": "FAQ Accordion Card",
+      "Description": "Frequently asked questions accordion with logic and animations made in Angular.",
+      "ghLink": "https://github.com/andresjosehr/faq-accordion",
+      "demoLink": "https://projects.andresjosehr.com/faq-accordion",
+      "Technologies": [
+        "Angular",
+        "CSS GRID",
+        "Angular animations"
+      ]
+    },
+    {
+      "Title": "Profile Card",
+      "Description": "Simple design of a page featuring a profile card with basic information of a person.",
+      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "demoLink": "https://projects.andresjosehr.com/profile-card-component",
+      "Technologies": [
+        "Angular",
+        "SASS",
+        "GIT"
+      ]
+    }
+  ],
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}
